@@ -1,0 +1,3 @@
+export FIREBASE_SERVER_URL=[YOUR_FIREBASE_URL_HERE]
+
+node index.js
